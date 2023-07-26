@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho e estudo com front-end
 - 🌱 Estudando Javascript, Angular e Python
 
 <div>
