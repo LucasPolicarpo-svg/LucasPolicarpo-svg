@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Hoje trabalho e estudo com front-end
-- 🌱 Estudando Javascript, Angular e Python
+- 🔭 Hoje trabalho e estudo com front-end e Web Desenvolvimento.
+- 🌱 Estudando Javascript, PHP e Python.
 
 <div>
   <a href="https://github.com/LucasPolicarpo-svg">
